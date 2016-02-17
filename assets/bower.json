@@ -1,0 +1,25 @@
+{
+  "name": "assets",
+  "homepage": "localhost",
+  "authors": [
+    "thenevermore <nurhadiarian@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
